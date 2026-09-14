@@ -1,0 +1,33 @@
+1. On 1-2 page "The main contributions of this paper...", please improve this part by refering references[24-29].
+
+2. Please find out about 4 ANFIS papers to add them to references.
+and then analyze the differences between them and figure 1(proposed method) to add this content.
+
+3. Even though section 3 is the main part of this paper, it's very lackness.
+
+3-1. Develop Pseudocode of the proposed model method of Section to add it to the paper.
+3-2. On section3, please compare the proposed T-S model method and traditional Tagaki and Sugeno (T-S) Ambiguous Modeling method in detail to add them to this paper
+
+4. Please describe Stage1-Stage3 in more detail and write its pseduocode on "Section 4 Temperature Prediction Model..".
+
+5.Translate reference paper8,9 into english to analyze the difference between the proposed method and them in more detail to add it to this paper.
+
+6.Please enahnce the meaning of cell in more detail
+
+7. Please describe the content of reference paper[17] of section 5 to section 2.
+
+8. In section 5, please compare between the proposed method and reference paper[17] in more detail.
+You can refer reference paper[26] KSI principle.
+
+9. please summarize the content of reference paper[2,14,15,18] of section 5 to describe it in section 2.
+
+10. In section 5, compare the proposed methoed with ones of reference papaers[2,14,15,18] based on algorithm, computational complex, error rate, prediction accuracy in more detail and make its table for comparison.
+
+
+This sci paper was upgraded according to these issues but not enough and incorrect.
+
+Please upgrade this sci paper more detail considering the mentioned 10 issues as well as the following 3 issues.
+
+The Introduction and reference part must be the latest update referring the papers published in around 2026 and the reference paper count must be more than 30.
+All algorithms must be explained via Pseudo code.
+the experimental analysis must be analyzed via visual graphs to make it better understandable.

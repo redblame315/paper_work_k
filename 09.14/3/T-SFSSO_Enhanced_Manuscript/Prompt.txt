@@ -1,0 +1,7 @@
+Please upgrade this SCI paper to make this perfect considering this.
+
+The Introduction and reference part must be the latest update referring the papers published in around 2026 and the reference paper count must be more than 30.
+
+All algorithms must be explained via Pseudo code.
+
+the experimental analysis must be analyzed via visual graphs to make it better understandable.
